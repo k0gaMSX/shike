@@ -1,0 +1,12 @@
+	db 0,GUNKAME.RAW.pck,0,0
+	db 0,GUNKAMI.RAW.pck,0,1538
+	db 0,KNIGTE.RAW.pck,0,2780
+	db 0,KNIGTHI.RAW.pck,0,4617
+	db 0,NINJAE.RAW.pck,0,6228
+	db 0,NINJAI.RAW.pck,1,0
+	db 0,PAZOSE.RAW.pck,1,1107
+	db 0,PAZOSI.RAW.pck,1,2973
+	db 0,ROBERTE.RAW.pck,1,4566
+	db 0,ROBERTI.RAW.pck,1,6196
+	db 0,VIKE.RAW.pck,2,0
+	db 0,VIKI.RAW.pck,2,2042
